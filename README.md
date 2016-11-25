@@ -1,5 +1,9 @@
 # Hangman!
 
+> ![gif](https://j.gifs.com/VmlXnz.gif)
+> ![gif](https://j.gifs.com/BgQw9Q.gif)
+
+
 This game requires the `inquirer` npm module, make sure to install it with `npm install inquirer`.
 
 ## Usage
